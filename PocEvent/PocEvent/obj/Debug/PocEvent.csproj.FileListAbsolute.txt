@@ -1,0 +1,6 @@
+C:\Sources\Git\Poc\PocEvent\PocEvent\PocEvent\bin\Debug\PocEvent.exe.config
+C:\Sources\Git\Poc\PocEvent\PocEvent\PocEvent\bin\Debug\PocEvent.exe
+C:\Sources\Git\Poc\PocEvent\PocEvent\PocEvent\bin\Debug\PocEvent.pdb
+C:\Sources\Git\Poc\PocEvent\PocEvent\PocEvent\obj\Debug\PocEvent.csprojResolveAssemblyReference.cache
+C:\Sources\Git\Poc\PocEvent\PocEvent\PocEvent\obj\Debug\PocEvent.exe
+C:\Sources\Git\Poc\PocEvent\PocEvent\PocEvent\obj\Debug\PocEvent.pdb
